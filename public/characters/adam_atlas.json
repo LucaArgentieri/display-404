@@ -1,0 +1,378 @@
+{
+  "frames": [
+    {
+      "filename": "adam_run_back-1",
+      "frame": {
+        "w": 16,
+        "h": 24,
+        "x": 48,
+        "y": 0
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "adam_run_back-2",
+      "frame": {
+        "w": 16,
+        "h": 24,
+        "x": 0,
+        "y": 0
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "adam_run_back-3",
+      "frame": {
+        "w": 16,
+        "h": 24,
+        "x": 16,
+        "y": 24
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "adam_run_back-4",
+      "frame": {
+        "w": 16,
+        "h": 24,
+        "x": 0,
+        "y": 24
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+
+    {
+      "filename": "adam_run_back-5",
+      "frame": {
+        "w": 16,
+        "h": 24,
+        "x": 32,
+        "y": 0
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "adam_run_back-6",
+      "frame": {
+        "w": 16,
+        "h": 24,
+        "x": 0,
+        "y": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "adam_run_front-1",
+      "frame": {
+        "w": 16,
+        "h": 24,
+        "x": 32,
+        "y": 24
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+
+    {
+      "filename": "adam_run_front-2",
+      "frame": {
+        "w": 16,
+        "h": 24,
+        "x": 48,
+        "y": 24
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "adam_run_front-3",
+      "frame": {
+        "w": 16,
+        "h": 24,
+        "x": 48,
+        "y": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "adam_run_front-4",
+      "frame": {
+        "w": 16,
+        "h": 24,
+        "x": 64,
+        "y": 0
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+
+    {
+      "filename": "adam_run_front-5",
+      "frame": {
+        "w": 16,
+        "h": 24,
+        "x": 16,
+        "y": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "adam_run_front-6",
+      "frame": {
+        "w": 16,
+        "h": 24,
+        "x": 16,
+        "y": 0
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+
+    {
+      "filename": "adam_run_left-1",
+      "frame": {
+        "w": 16,
+        "h": 24,
+        "x": 32,
+        "y": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+
+    {
+      "filename": "adam_run_left-2",
+      "frame": {
+        "w": 16,
+        "h": 24,
+        "x": 64,
+        "y": 24
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "adam_run_left-3",
+      "frame": {
+        "w": 16,
+        "h": 24,
+        "x": 0,
+        "y": 72
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "adam_run_left-4",
+      "frame": {
+        "w": 16,
+        "h": 24,
+        "x": 64,
+        "y": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+
+    {
+      "filename": "adam_run_left-5",
+      "frame": {
+        "w": 16,
+        "h": 24,
+        "x": 16,
+        "y": 72
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "adam_run_left-6",
+      "frame": {
+        "w": 16,
+        "h": 24,
+        "x": 32,
+        "y": 72
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "adam_run_right-1",
+      "frame": {
+        "w": 16,
+        "h": 24,
+        "x": 48,
+        "y": 72
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "adam_run_right-2",
+      "frame": {
+        "w": 16,
+        "h": 24,
+        "x": 64,
+        "y": 72
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "adam_run_right-3",
+      "frame": {
+        "w": 16,
+        "h": 24,
+        "x": 80,
+        "y": 0
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "adam_run_right-4",
+      "frame": {
+        "w": 16,
+        "h": 24,
+        "x": 80,
+        "y": 24
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "adam_run_right-5",
+      "frame": {
+        "w": 16,
+        "h": 24,
+        "x": 80,
+        "y": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "adam_run_right-6",
+      "frame": {
+        "w": 16,
+        "h": 24,
+        "x": 80,
+        "y": 72
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "adam_run_back_idle",
+      "frame": {
+        "w": 16,
+        "h": 24,
+        "x": 96,
+        "y": 0
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "adam_run_left_idle",
+      "frame": {
+        "w": 16,
+        "h": 24,
+        "x": 96,
+        "y": 24
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "adam_run_right_idle",
+      "frame": {
+        "w": 16,
+        "h": 24,
+        "x": 96,
+        "y": 48
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "adam_run_front_idle",
+      "frame": {
+        "w": 16,
+        "h": 24,
+        "x": 96,
+        "y": 72
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  ],
+  "meta": {
+    "description": "Atlas generado con Atlas Packer Gamma V2",
+    "web": "https://gammafp.github.io/atlas-packer-phaser/"
+  }
+}
