@@ -178,7 +178,7 @@ export default class Game extends Phaser.Scene {
         sceneEvents.emit('item-collected')
 
         //Particles Effect when collect x
-        let particles = this.add.particles('blueB').setDepth(0.1);
+        let particles = this.add.particles('blueB').setDepth(0.09);
         let emitter = particles.createEmitter({
             speed: 50,
             scale: { start: 0.15, end: 0.1 },
